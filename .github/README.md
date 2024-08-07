@@ -1,1 +1,1 @@
-../security-txt/README.md
+Nidacoke/solana../security-txt/README.md
